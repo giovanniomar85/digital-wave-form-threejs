@@ -1,9 +1,10 @@
 {
-  "name": "untitled",
+  "name": "digital-wave",
   "version": "1.0.0",
   "description": "Scene exported with Spline",
   "scripts": {
-    "start": "serve"
+    "start": "serve",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "serve": "^13.0.2"
